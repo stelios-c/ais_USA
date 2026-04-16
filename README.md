@@ -1,2 +1,1 @@
-# ais_USA
-analysis of US AIS data from Kaggle
+This repo includes analysis of the kaggle AIS USA dataset
